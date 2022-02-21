@@ -1,0 +1,9 @@
+{
+  "assets": [
+      { "id": "cityModel", "src": "https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"}
+  ],
+  "entities": [
+      { "id":"city", "gltf-model": "#cityModel"}
+  ]
+  
+}
